@@ -1,0 +1,5 @@
+Connect to DB: $
+mysqlsh
+\connect rrojas13@dbserver2.utep.edu
+USE rrojas13_f24_sec2_nvrdb;
+USE f24_nvr_sec2_team7;

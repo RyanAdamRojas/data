@@ -1,0 +1,11 @@
+DROP PROCEDURE IF EXISTS insert_report;
+DROP PROCEDURE IF EXISTS insert_manages_report;
+DROP PROCEDURE IF EXISTS insert_project;
+DROP PROCEDURE IF EXISTS insert_manages_project;
+DROP PROCEDURE IF EXISTS insert_funding;
+DROP PROCEDURE IF EXISTS course_report;
+DROP PROCEDURE IF EXISTS funding_report;
+DROP PROCEDURE IF EXISTS survey_report;
+DROP PROCEDURE IF EXISTS time_tracking_report;
+DROP PROCEDURE IF EXISTS annual_report;
+DROP PROCEDURE IF EXISTS generate_course_report_by_faculty_member;

@@ -1,0 +1,1 @@
+drop view All_Course_Reports_View;
